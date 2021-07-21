@@ -7,7 +7,7 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "Conference name"
+  Name: "2do Congreso Internacional de Ciencias Humanas y Sociales"
   Description: "Conference description"
   Date: "November 15"
   Price: "Only $100" # If your event is free, just comment this line
