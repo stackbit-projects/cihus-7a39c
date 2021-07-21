@@ -24,7 +24,7 @@ params:
     - partners
   Titles:
     about: Acerca de
-    location: Location
+    location: Ubicación
     speakers: Speakers
     schedule: Schedule
     sponsors: Sponsors
