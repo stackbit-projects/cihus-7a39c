@@ -11,7 +11,7 @@ params:
   Description: "Conference description"
   Date: "November 15"
   Price: #"Only $100" # If your event is free, just comment this line
-  Venue: "Coco Bongo"
+  Venue: "Universidad de Fuerzas Armadas ESPE"
   Address: "Boulevard Kukulcan, 30"
   City:  "Cancún"
   State: "Quintana"
