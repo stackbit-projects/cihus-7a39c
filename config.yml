@@ -27,7 +27,7 @@ params:
     location: Ubicación
     speakers: Keynote Speakers
     schedule: Calendario
-    sponsors: Sponsors
+    sponsors: Participan
     partners: Partners
     contact: Contact
   CallToAction:
