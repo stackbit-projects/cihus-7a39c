@@ -28,7 +28,7 @@ params:
     speakers: Keynote Speakers
     schedule: Calendario
     sponsors: Participan
-    partners: Partners
+    partners: Auspician
     contact: Contact
   CallToAction:
     text: Register now!
