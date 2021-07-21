@@ -29,7 +29,7 @@ params:
     schedule: Calendario
     sponsors: Participan
     partners: Auspician
-    contact: Contact
+    contact: Contacto
   CallToAction:
     text: Register now!
     link: 'http://register.example.com'
