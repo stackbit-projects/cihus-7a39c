@@ -10,7 +10,7 @@ params:
   Name: "2do Congreso Internacional de Ciencias Humanas y Sociales"
   Description: "Conference description"
   Date: "November 15"
-  Price: "Only $100" # If your event is free, just comment this line
+  Price: #"Only $100" # If your event is free, just comment this line
   Venue: "Coco Bongo"
   Address: "Boulevard Kukulcan, 30"
   City:  "Cancún"
