@@ -31,7 +31,7 @@ params:
     partners: Auspician
     contact: Contacto
   CallToAction:
-    text: Register now!
+    text: Registrese ahora!
     link: 'http://register.example.com'
   ForkButton:
     repository: 'https://github.com/jweslley/hugo-conference/'
