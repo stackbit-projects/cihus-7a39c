@@ -4,7 +4,7 @@ canonifyurls: true
 theme: hugo conference
 GoogleAnalytics: ''
 params:
-  Name: Conference name
+  Name: Congreso de Ciencias Humanas y Sociales
   Description: Conference description
   Date: November 15
   Price: Only $100
