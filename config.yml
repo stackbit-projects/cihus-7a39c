@@ -23,7 +23,7 @@ params:
     - sponsors
     - partners
   Titles:
-    about: About
+    about: Acerca de
     location: Location
     speakers: Speakers
     schedule: Schedule
