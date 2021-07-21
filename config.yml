@@ -10,7 +10,7 @@ params:
   Price: #Only $100
   Venue: Universidad de Fuerzas Armadas ESPE
   Address: 'Boulevard Kukulcan, 30'
-  City: Cancún
+  City: Sangolquí
   State: Quintana
   Images:
     - /img/badge.jpg
