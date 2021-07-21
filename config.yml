@@ -7,7 +7,7 @@ params:
   Name: Congreso de Ciencias Humanas y Sociales
   Description: Conference description
   Date: Noviembre 12
-  Price: Only $100
+  Price: #Only $100
   Venue: Coco Bongo
   Address: 'Boulevard Kukulcan, 30'
   City: Cancún
